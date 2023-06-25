@@ -1,0 +1,139 @@
+ul {
+    /* list-style-type: none; */
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+    background-color: hsl(222, 14%, 10%);
+    width: 100%;
+  
+  }
+  
+  .nav-btn {
+    /* transform: translate(100%, 0%); */
+    padding-right: 40px;
+    padding-left: 40px;
+    /* padding-top: 30px; */
+    text-align: center;
+    font-size: large;
+  
+  }
+  
+  .special {
+    margin-right: 15cm;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+  
+  }
+  
+  .main-nav a {
+    padding: 10px 15px;
+  
+    text-align: center;
+    /* display: block; */
+  
+    /* display: block-inline; */
+    color: white;
+    /* text-align: center; */
+    padding: 10px 10px;
+    text-decoration: none;
+    /* width: 100%; */
+    /* width:1250px; */
+    /* max-width: 110%; */
+    margin-bottom: 0.5cm; 
+    /* transform: translate(30%, 0%); */
+    margin-bottom: 20px;
+  
+  
+  }
+  
+  .header {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    border: 1px solid #a2a2a2;
+    background-color: #f4f4f4;
+    /* -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+      -moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+      box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px; */
+    border-radius: 5px;
+  }
+  
+  
+  .mytxt {
+    /* display: block-inline; */
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 40;
+    margin: 0px;
+    height: 75px;
+    box-sizing: border-box;
+    margin-bottom:23px ;
+  }
+  
+  li a:hover {
+    background-color: rgb(23, 65, 65);
+    color: azure;
+  
+  }
+  
+  .spacer {
+    margin-right: 50%;
+    margin-left: 5%;
+    font-size: 21px;
+  }
+  
+  .so {
+    margin-right: 0%;
+    margin-left: 0%;
+    padding-right: 20px;
+    background-color: hsl(222, 14%, 10%);
+    color: azure;
+    
+  }
+  .so2{
+  transform:translate(420%,0%);
+  margin-right: 0%;
+    margin-left: 0%;
+    padding-right: 20px;
+    background-color: hsl(222, 14%, 10%);
+    color: azure;
+    height:60px;
+
+
+    margin-right: 0%;
+    margin-left: 0%;
+    padding-right: 20px;
+    background-color: hsl(222, 14%, 10%);
+    color: azure;
+    margin-bottom: 2cm;
+    transform: translate(0%,-12%);
+    position: relative;
+    top: -30px;
+    transform:translate(420%,0%);
+  }
+  
+  .popup {
+  
+    /* transform: translate(30%, 0%); */
+    height: 200px;
+    width: 50%;
+  
+  }
+  .logoutt{
+    margin-right: 0%;
+    margin-left: 0%;
+    padding-right: 20px;
+    background-color: hsl(222, 14%, 10%);
+    color: azure;
+    margin-bottom: 2cm;
+    transform: translate(0%,-12%);
+    position: relative;
+    top: -30px;
+    transform:translate(420%,0%);
+  }

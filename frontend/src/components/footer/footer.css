@@ -1,0 +1,81 @@
+.down{
+
+    position: relative;
+    overflow: hidden;
+    bottom: 0;
+    /* transform: translate(0%,90%); */
+    width: 300%;
+    background-color: rgb(2, 9, 28);
+    height:700px;
+}
+html{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 100%;
+}
+.spac{
+    padding: 1cm;
+}
+
+.footer {
+    background-color: rgb(2, 9, 28);
+    color: #b9a7a7;
+    padding: 50px;
+  }
+  
+  .footer-columns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .footer-column {
+    flex-basis: 30%;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 2.2rem;
+    line-height: 1.8;
+  }
+  
+  .footer-bottom {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+.text1{
+    padding-top: 2px;
+    font-size:100px;
+    font-weight: 600;
+    font-family: "Times New Roman", Times, serif;
+
+}
+.text2{
+    padding-top: 2px;
+    font-size:60px;
+    font-weight: 300;
+    font-family: "Times New Roman", Times, serif;
+
+}
+.text3{
+    padding-top: 2px;
+    font-size:30px;
+    font-weight: 300;
+    font-family: "Times New Roman", Times, serif;
+
+}
+.text4{
+    padding-top: 2px;
+    font-size: 20px;
+    font-stretch:extra-condensed;
+    font-weight: 300;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+  
+  

@@ -1,0 +1,98 @@
+.maincrd {
+
+    width: 80%;
+    margin: 70px auto;
+    padding: 20px;
+}
+
+/* body {
+    background-color: white;
+} */
+
+.card {
+    height: 700px;
+    width: 26%;
+    /* display: inline-block; */
+    box-shadow: 2px 2px 20px black;
+    border-radius: 5px;
+    margin: 2%;
+    float: left;
+    /* margin-bottom: 30px; */
+
+}
+
+.image img {
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    height: 270px;
+}
+
+.title {
+
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+.des {
+    padding: 3px;
+    text-align: center;
+    font-size: 5px; 
+    padding-top: 10px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.smalle{
+    text-align: left;
+    font-size: 21px;
+}
+.smaller{
+    text-align: left;
+    font-size: 20px;
+}
+
+button {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    /* transition: .5s; */
+    cursor: pointer;
+}
+
+.vthetablecb{
+    text-align: center;
+    margin: 20px auto;
+    width: 60%;
+
+}
+
+.vthetablecb > table{
+    border-collapse: collapse;
+    /* border: 2px solid black; */
+    padding: 9px;
+    margin: 35px auto;
+    font-size: 20px;
+
+
+}
+
+.vthetablecb > table > tr > th, .vthetablecb > table > tr > td{
+    padding: 23px;   
+    border: 2px solid black; 
+    width: 3%;
+    /* width:9%; */
+}
+
+.custh{
+    height: 2500px;
+}
